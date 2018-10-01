@@ -1,0 +1,15 @@
+{
+    "name": "julien/mvc2",
+    "authors": [
+        {
+            "name": "Sambon Julien",
+            "email": "steeper@live.fr"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    "psr-4": {
+        "": "src/"
+    }
+}
+}
